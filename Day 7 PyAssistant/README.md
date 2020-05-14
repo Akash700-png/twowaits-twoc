@@ -1,4 +1,7 @@
 # PyAssistant
+
+This code is courtesy of Nitesh Chaudhary, LinkedIn profile : https://www.linkedin.com/in/niteshx2/
+
 A simple Program which Takes input through voice,
 Process it , do required operations 
 and gives the desired result. This assitant can do many things , and is easy to modify , only basic knowledge of python is needed !
